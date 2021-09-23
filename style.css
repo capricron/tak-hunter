@@ -1,0 +1,36 @@
+img{
+    width: 100px;
+}
+
+.header{
+    padding: 20px;
+    width: 100%;
+    height: 250px;
+    background-color: #17F9DE;
+}
+
+.konten{
+    overflow: auto;
+    margin: auto;
+    width: 90%;
+}
+
+.tambahan{
+    margin-top: 50px;
+}
+
+.event{
+    float: right;
+}
+
+table{
+    background-color: #38D4F6;
+}
+
+
+@media (max-width:1000px) {
+    .header{
+        height: 320px;
+    }
+
+}
